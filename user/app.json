@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "user",
-    "slug": "user",
+    "slug": "waterpolo-fantasy",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "efdf399c-03fc-493d-b979-7b37a6fd4ed5"
+      }
+    },
+    "owner": "podra01"
   }
 }
